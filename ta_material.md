@@ -3,7 +3,23 @@ layout: other
 ---
 ## Resources
 
-On this page you will find resources I have used and continue to use in my various capacities as a teaching and research assistant. Please feel free to use and share these notes as you see fit.
+On this page you will find resources I have used and continue to use in my various capacities as a student and teaching & research assistant. Please feel free to use and share these notes as you see fit.
+
+### University of Oxford
+#### Econometrics
+[Problem Set 1: Probability and Distributions](https://drive.google.com/open?id=1s1YncHHNpWJTymKr3Z0WQvow_lX6lTBl)  
+
+[Problem Set 2: Distributions and Matrix Algebra](https://drive.google.com/open?id=1yItsjzfkGie9HOX8MkL9EBPYuBpH5lkL)  
+
+[Problem Set 3: The OLS Estimator and its Properties](https://drive.google.com/open?id=1-w9HUGzjW_JNneBLmzHatysTq09oKz1h)  
+
+
+#### Macroeconomics
+[Dynamic Programming](https://drive.google.com/open?id=1WwW4PyIP33xDa5psezbivA2EdKUK6iLi)  
+
+
+#### Microeconomics  
+
 
 ### Keio University
 #### Introductory Mathematics for Economists
