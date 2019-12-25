@@ -19,6 +19,7 @@ On this page you will find resources I have used and continue to use in my vario
 
 
 #### Microeconomics  
+[Static Optimisation](https://drive.google.com/open?id=1wM6dFYTE5sU8mAnrlLsG6H1NWQuK45ep)
 
 
 ### Keio University
