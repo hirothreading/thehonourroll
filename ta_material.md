@@ -17,6 +17,8 @@ On this page you will find resources I have used and continue to use in my vario
 #### Macroeconomics
 [Dynamic Optimisation](https://drive.google.com/open?id=1vqYl42Su5p4J58s_EPv8l6AcGAWlF6zB)  
 
+[Problem Set 1: Growth and Business Cycles](https://drive.google.com/open?id=1PsAgtCLXgjqq9BMaIQRH4uON7i6ZbO_6)
+
 
 #### Microeconomics  
 [Static Optimisation](https://drive.google.com/open?id=1wM6dFYTE5sU8mAnrlLsG6H1NWQuK45ep)
