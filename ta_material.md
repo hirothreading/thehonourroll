@@ -13,6 +13,8 @@ On this page you will find resources I have used and continue to use in my vario
 
 [Problem Set 3: The OLS Estimator and its Properties](https://drive.google.com/open?id=1-w9HUGzjW_JNneBLmzHatysTq09oKz1h)  
 
+[Problem Set 4: Asymptotic Theory, Hypothesis Testing, and Linear Restrictions](https://drive.google.com/open?id=13qK9j-FCBPslsoLmUB3to_56U1sPdXJh)
+
 
 #### Macroeconomics
 [Dynamic Optimisation](https://drive.google.com/open?id=1vqYl42Su5p4J58s_EPv8l6AcGAWlF6zB)  
