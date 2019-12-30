@@ -13,7 +13,9 @@ On this page you will find resources I have used and continue to use in my vario
 
 [Problem Set 3: The OLS Estimator and its Properties](https://drive.google.com/open?id=1-w9HUGzjW_JNneBLmzHatysTq09oKz1h)  
 
-[Problem Set 4: Asymptotic Theory, Hypothesis Testing, and Linear Restrictions](https://drive.google.com/open?id=13qK9j-FCBPslsoLmUB3to_56U1sPdXJh)
+[Problem Set 4: Asymptotic Theory, Hypothesis Testing, and Linear Restrictions](https://drive.google.com/open?id=13qK9j-FCBPslsoLmUB3to_56U1sPdXJh)  
+
+[Problem Set 5: Generalised Least Squares and Omitted Variables](https://drive.google.com/open?id=1kfleC7m46Pjpq1UAn38qKa474scet8RY)
 
 
 #### Macroeconomics
