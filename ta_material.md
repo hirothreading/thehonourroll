@@ -25,7 +25,9 @@ On this page you will find resources I have used and continue to use in my vario
 
 
 #### Microeconomics  
-[Static Optimisation](https://drive.google.com/open?id=1wM6dFYTE5sU8mAnrlLsG6H1NWQuK45ep)
+[Static Optimisation](https://drive.google.com/open?id=1wM6dFYTE5sU8mAnrlLsG6H1NWQuK45ep)  
+
+[Problem Set 1: Consumer and Producer Theory](https://drive.google.com/open?id=1BjPRI3C7h4gviaInphP-MrmK8H4HG-CU)
 
 
 ### Keio University
