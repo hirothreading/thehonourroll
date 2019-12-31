@@ -6,7 +6,7 @@ layout: other
 On this page you will find resources I have used and continue to use in my various capacities as a student and teaching & research assistant. Please feel free to use and share these notes as you see fit.
 
 ### University of Oxford
-#### Econometrics
+#### Econometrics (MPhil Economics)
 [Problem Set 1: Probability and Distributions](https://drive.google.com/open?id=1s1YncHHNpWJTymKr3Z0WQvow_lX6lTBl)  
 
 [Problem Set 2: Distributions and Matrix Algebra](https://drive.google.com/open?id=1yItsjzfkGie9HOX8MkL9EBPYuBpH5lkL)  
@@ -18,13 +18,13 @@ On this page you will find resources I have used and continue to use in my vario
 [Problem Set 5: Generalised Least Squares and Omitted Variables](https://drive.google.com/open?id=1kfleC7m46Pjpq1UAn38qKa474scet8RY)
 
 
-#### Macroeconomics
+#### Macroeconomics (MPhil Economics)
 [Dynamic Optimisation](https://drive.google.com/open?id=1vqYl42Su5p4J58s_EPv8l6AcGAWlF6zB)  
 
 [Problem Set 1: Growth and Business Cycles](https://drive.google.com/open?id=1PsAgtCLXgjqq9BMaIQRH4uON7i6ZbO_6)
 
 
-#### Microeconomics  
+#### Microeconomics (MPhil Economics) 
 [Static Optimisation](https://drive.google.com/open?id=1wM6dFYTE5sU8mAnrlLsG6H1NWQuK45ep)  
 
 [Problem Set 1: Consumer and Producer Theory](https://drive.google.com/open?id=1BjPRI3C7h4gviaInphP-MrmK8H4HG-CU)
