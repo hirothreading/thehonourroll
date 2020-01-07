@@ -15,7 +15,9 @@ On this page you will find resources I have used and continue to use in my vario
 
 [Problem Set 4: Asymptotic Theory, Hypothesis Testing, and Linear Restrictions](https://drive.google.com/open?id=13qK9j-FCBPslsoLmUB3to_56U1sPdXJh)  
 
-[Problem Set 5: Generalised Least Squares and Omitted Variables](https://drive.google.com/open?id=1kfleC7m46Pjpq1UAn38qKa474scet8RY)
+[Problem Set 5: Generalised Least Squares and Omitted Variables](https://drive.google.com/open?id=1kfleC7m46Pjpq1UAn38qKa474scet8RY)  
+
+[Problem Set 6: Instrumental Variables and Identification](https://drive.google.com/open?id=1eiZhaBOMRjsWGp_HSBIxX1r1dlJr7mkw)
 
 
 #### Macroeconomics (MPhil Economics)
