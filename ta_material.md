@@ -31,7 +31,9 @@ On this page you will find resources I have used and continue to use in my vario
 #### Microeconomics (MPhil Economics)
 [Static Optimisation](https://drive.google.com/open?id=1wM6dFYTE5sU8mAnrlLsG6H1NWQuK45ep)  
 
-[Problem Set 1: Consumer and Producer Theory](https://drive.google.com/open?id=1BjPRI3C7h4gviaInphP-MrmK8H4HG-CU)
+[Problem Set 1: Consumer and Producer Theory](https://drive.google.com/open?id=1BjPRI3C7h4gviaInphP-MrmK8H4HG-CU)  
+
+[Problem Set 2: Choice under Uncertainty and Nash Equilibria](https://drive.google.com/open?id=1GrVD4ZcqFY5zW5yyIZhdo-cQ8gPd4UZq)  
 
 
 ### Keio University
