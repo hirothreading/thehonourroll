@@ -25,7 +25,9 @@ On this page you will find resources I have used and continue to use in my vario
 
 [Problem Set 1: Introduction to Neoclassical Growth Models](https://drive.google.com/open?id=1PsAgtCLXgjqq9BMaIQRH4uON7i6ZbO_6)
 
-[Problem Set 2: Neoclassical Growth Models Part II: The OLG and Ramsey Model](https://drive.google.com/open?id=1S1Q3TMzS03GXhVgurmTbeb5fRs4wSDtX)
+[Problem Set 2: Neoclassical Growth Models Part II: The OLG and Ramsey Model](https://drive.google.com/open?id=1S1Q3TMzS03GXhVgurmTbeb5fRs4wSDtX)  
+
+[Macroeconomics Vacation Problem Set](https://drive.google.com/open?id=11vJewFHWfULC0VIvXDiJoW15zy_P-9yA)
 
 
 #### Microeconomics (MPhil Economics)
