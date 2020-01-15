@@ -37,6 +37,8 @@ On this page you will find resources I have used and continue to use in my vario
 
 [Problem Set 2: Choice under Uncertainty and Nash Equilibria](https://drive.google.com/open?id=1GrVD4ZcqFY5zW5yyIZhdo-cQ8gPd4UZq)  
 
+[Microeconomics Vacation Problem Set](https://drive.google.com/open?id=14if1tRKQLYaP4WwDt7XiQoKnzluxWeGU)    
+
 
 ### Keio University
 #### Introductory Mathematics for Economists
