@@ -17,7 +17,9 @@ On this page you will find resources I have used and continue to use in my vario
 
 [Problem Set 5: Generalised Least Squares and Omitted Variables](https://drive.google.com/open?id=1kfleC7m46Pjpq1UAn38qKa474scet8RY)  
 
-[Problem Set 6: Instrumental Variables and Identification](https://drive.google.com/open?id=1eiZhaBOMRjsWGp_HSBIxX1r1dlJr7mkw)
+[Problem Set 6: Instrumental Variables and Identification](https://drive.google.com/open?id=1eiZhaBOMRjsWGp_HSBIxX1r1dlJr7mkw)  
+
+[Problem Set 7: Inference and Instrumental Variables](https://drive.google.com/open?id=1elGVWZDPd_wNz_12OqyQ_yc2Qfm51BxW)
 
 
 #### Macroeconomics (MPhil Economics)
