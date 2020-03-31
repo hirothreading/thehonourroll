@@ -41,7 +41,11 @@ On this page you will find resources I have used and continue to use in my vario
 
 [Problem Set 1: Consumer and Producer Theory](https://drive.google.com/open?id=1BjPRI3C7h4gviaInphP-MrmK8H4HG-CU)  
 
-[Problem Set 2: Choice under Uncertainty and Nash Equilibria](https://drive.google.com/open?id=1GrVD4ZcqFY5zW5yyIZhdo-cQ8gPd4UZq)  
+[Problem Set 2: Choice Under Uncertainty](https://drive.google.com/open?id=1GrVD4ZcqFY5zW5yyIZhdo-cQ8gPd4UZq)
+
+[Problem Set 3: Nash Equilibria and Dominated Strategies](https://drive.google.com/open?id=1O62ubaY5vZqgxFxzbQP83cykS3r0Xka5)
+
+[Problem Set 4: Dynamic Games, Bayesian-Nash Equilibria, and Introduction to Industrial Organisation](https://drive.google.com/open?id=1BzbQ5_hD73imIfkEPpkGGpPnruGNUjyj)  
 
 [Microeconomics Vacation Problem Set](https://drive.google.com/open?id=14if1tRKQLYaP4WwDt7XiQoKnzluxWeGU)    
 
