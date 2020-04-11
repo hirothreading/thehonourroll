@@ -27,6 +27,30 @@ On this page you will find resources I have used and continue to use in my vario
 
 
 #### Macroeconomics (MPhil Economics)
+[Macroeconomics Course Notes (incomplete)](https://drive.google.com/open?id=12v7HL6Bt6Jhn62YVmNS1MdVs2yYmo0dp)
+
+[Introduction and Simple General Equilibrium Models](https://drive.google.com/open?id=1l3tDD5DZlqvwAr-ZtV9uczKsOp88Kw0B)
+
+[The Diamond Overlapping Generations Model](https://drive.google.com/open?id=1M6s-I1plr8SsaKdTMmNm3FVjRJp9e66q)
+
+[The Ramsey-Cass-Koopmans Model](https://drive.google.com/open?id=14P9zRMGyMQmYosACFhUXXvqncTe7JrMD)
+
+[Endogenous Growth](https://drive.google.com/open?id=1jYiLIC4DePDHaxCkqHVdoCn5Aw-COVsI)
+
+[Primer to DSGE Models](https://drive.google.com/open?id=1TXHhaWNx894K1W-qUVzvn2kFZ7yWtMrE)
+
+[The Real Business Cycle Model](https://drive.google.com/open?id=1GLynQ2QS4j3dOhH7UEYTmD93UYabp54f)
+
+[Solving DSGE Models](https://drive.google.com/open?id=1WFUCa55HOseF5EJPUPixVZVUfhQgpuRK)
+
+[Modelling the Labour Market](https://drive.google.com/open?id=1F-1jnSfwkyqUEfLbnt09otuprjKIYh-i)
+
+[Real Dynamics in the RBC Model](https://drive.google.com/open?id=1V4O3la4Drb3o5cepQeBJxzCEOf_sicIg)
+
+[The New Keynesian DGSE Model](https://drive.google.com/open?id=1c8NnOSisryFSaZSCHxrQsci3w4-Xv2qI)
+
+[Interest Rates and Asset Prices](https://drive.google.com/open?id=1GXAX1--gxb3MqRkwjhxrJBYJ_JsKm5Kp)
+
 [Dynamic Optimisation](https://drive.google.com/open?id=1vqYl42Su5p4J58s_EPv8l6AcGAWlF6zB)  
 
 [Problem Set 1: Introduction to Neoclassical Growth Models](https://drive.google.com/open?id=1PsAgtCLXgjqq9BMaIQRH4uON7i6ZbO_6)
