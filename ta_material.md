@@ -51,6 +51,10 @@ On this page you will find resources I have used and continue to use in my vario
 
 [Interest Rates and Asset Prices](https://drive.google.com/open?id=1GXAX1--gxb3MqRkwjhxrJBYJ_JsKm5Kp)
 
+[Financial Frictions](https://drive.google.com/open?id=1t9sM2xauiBFa-WgoVGvuC4MvxP9_ykNx)
+
+[Financial Crises](https://drive.google.com/open?id=1_uuGF5Nz2lQOuVi9_vuBUklNSwCVRBDe)
+
 [Dynamic Optimisation](https://drive.google.com/open?id=1vqYl42Su5p4J58s_EPv8l6AcGAWlF6zB)  
 
 [Problem Set 1: Introduction to Neoclassical Growth Models](https://drive.google.com/open?id=1PsAgtCLXgjqq9BMaIQRH4uON7i6ZbO_6)
