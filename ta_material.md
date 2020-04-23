@@ -29,7 +29,7 @@ On this page you will find resources I have used and continue to use in my vario
 #### Macroeconomics (MPhil Economics)
 [Macroeconomics Course Notes (incomplete)](https://drive.google.com/open?id=12v7HL6Bt6Jhn62YVmNS1MdVs2yYmo0dp)
 
-Part I: Growth and Business Cycles  
+**Part I: Growth and Business Cycles**  
 [Introduction and Simple General Equilibrium Models](https://drive.google.com/open?id=1l3tDD5DZlqvwAr-ZtV9uczKsOp88Kw0B)
 
 [The Diamond Overlapping Generations Model](https://drive.google.com/open?id=1M6s-I1plr8SsaKdTMmNm3FVjRJp9e66q)
@@ -48,15 +48,15 @@ Part I: Growth and Business Cycles
 
 [Real Dynamics in the RBC Model](https://drive.google.com/open?id=1V4O3la4Drb3o5cepQeBJxzCEOf_sicIg)
 
-Part II: Monetary Economics  
+**Part II: Monetary Economics**  
 [Building a Monetary DSGE Model](https://drive.google.com/open?id=1zKhq7Wexa3Tjmo8AY4n83xPterBwLZn9)
 
 [The New Keynesian DGSE Model](https://drive.google.com/open?id=1c8NnOSisryFSaZSCHxrQsci3w4-Xv2qI)
 
-Part III: Optimal Policy  
+**Part III: Optimal Policy**  
 [forthcoming]
 
-Part IV: Macro-Finance  
+**Part IV: Macro-Finance**  
 [Interest Rates and Asset Prices](https://drive.google.com/open?id=1GXAX1--gxb3MqRkwjhxrJBYJ_JsKm5Kp)
 
 [Financial Frictions](https://drive.google.com/open?id=1t9sM2xauiBFa-WgoVGvuC4MvxP9_ykNx)
