@@ -27,7 +27,7 @@ On this page you will find resources I have used and continue to use in my vario
 
 
 #### Macroeconomics (MPhil Economics)
-[Macroeconomics Course Notes (incomplete)](https://drive.google.com/open?id=12v7HL6Bt6Jhn62YVmNS1MdVs2yYmo0dp)
+[Macroeconomics Course Notes](https://drive.google.com/open?id=12v7HL6Bt6Jhn62YVmNS1MdVs2yYmo0dp)
 
 Part I: Growth and Business Cycles  
 [Introduction and Simple General Equilibrium Models](https://drive.google.com/open?id=1l3tDD5DZlqvwAr-ZtV9uczKsOp88Kw0B)
@@ -54,7 +54,13 @@ Part II: Monetary Economics
 [The New Keynesian DGSE Model](https://drive.google.com/open?id=1c8NnOSisryFSaZSCHxrQsci3w4-Xv2qI)
 
 Part III: Optimal Policy  
-[forthcoming]
+[Determinacy and Interest Rate Rules in the New Keynesian Model](https://drive.google.com/open?id=1-HhOkkjOssWRtr07Xyt9FAt3o2lMkEXO)  
+
+[Optimal Monetary Policy in the New Keynesian Model](https://drive.google.com/open?id=1N9xD6A1eCE-NSErMO8kovcZSYi9jCFeF)  
+
+[The Zero Lower Bound](https://drive.google.com/open?id=1wIN_fSAke_CpUwuC0nGs_AZxJQ5_ipus)  
+
+[Labour Market Rigidities in the New Keynesian Model](https://drive.google.com/open?id=1eEAq6cihgKO1hnIHRkj8IQ6BV_yNQNHP)  
 
 Part IV: Macro-Finance  
 [Interest Rates and Asset Prices](https://drive.google.com/open?id=1GXAX1--gxb3MqRkwjhxrJBYJ_JsKm5Kp)
