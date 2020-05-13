@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-##[Caspar Invites Me to Binge Thinking Again](https://bit.ly/B_Think60)
+## [Caspar Invites Me to Binge Thinking Again](https://bit.ly/B_Think60)
 
 My friend over at the Binge Thinking Podcast, Caspar Roxburgh, invited myself and health economist Jay Stiles back onto the show to discuss some of the economics of the COVID-19 pandemic.
 
