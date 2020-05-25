@@ -21,9 +21,11 @@ On this page you will find resources I have used and continue to use in my vario
 
 [Problem Set 7: Inference and Instrumental Variables](https://drive.google.com/open?id=1elGVWZDPd_wNz_12OqyQ_yc2Qfm51BxW)
 
-[Econometrics Vacation Mock Exam](https://drive.google.com/open?id=1n7A39s4QE5zweXlXrZh4kkJbjMjx0RWc)
+[Econometrics Vacation Mock Exam](https://drive.google.com/open?id=1n7A39s4QE5zweXlXrZh4kkJbjMjx0RWc)  
 
-[Problem Set 8: The Method of Maximum Likelihood](https://drive.google.com/open?id=1O8kHVnLhPFyAmnc8Nvhhiw-zR3qvGDBi)
+[Problem Set 8: The Method of Maximum Likelihood](https://drive.google.com/open?id=1O8kHVnLhPFyAmnc8Nvhhiw-zR3qvGDBi)  
+
+[Some Integration Tricks](https://drive.google.com/open?id=10wbnXq4f7amDn9la6U4hVIMBfmCI5LHx)
 
 
 #### Macroeconomics (MPhil Economics)
