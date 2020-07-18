@@ -3,9 +3,8 @@ layout: other
 ---
 ## Curriculum Vitae
 
-
-### Current Extra Curricular Activities
-Committee Member, [Australia-Japan Youth Dialogue](www.ajyd.org) (2016.12 - Present)
+### Current Appointments
+Research Assistant, University of Oxford (2020.7 - Present)  
 
 
 ### Current Papers and Projects
@@ -18,6 +17,7 @@ Committee Member, [Australia-Japan Youth Dialogue](www.ajyd.org) (2016.12 - Pres
 
 ### Education
 Master of Philosophy in Economics, University of Oxford (2019.9 - Present)
+Academic Supervisor: Andrea Ferrero and Sophocles Mavroeidis
 
 Master of Arts (Economics), Keio University (2017.4 - 2019.3)  
 Academic Supervisor: Professor Ippei Fujiwara  
@@ -74,6 +74,8 @@ C.A. Vargovic Memorial Scholarship, The University of Western Australia (2013.7)
 
 
 ### Past Volunteer and Extra Curricular Activities
+Committee Member, [Australia-Japan Youth Dialogue](www.ajyd.org) (2016.12 - 2020.4)  
+
 Professor Ippei Fujiwara Research Seminar, Keio University (2016.4 - 2019.3)
 
 Committee Member, Australia-Japan Society of Western Australia, Perth, Australia (2015.8 - 2016.2)
