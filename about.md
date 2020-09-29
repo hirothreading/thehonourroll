@@ -8,7 +8,7 @@ The Honour Roll is a personal blog run by me, and a lot of the topics I like to 
 
 My contact details as well as full appointment history can be found from the following links:
 
-[E-mail address](david.murakami@economics.ox.ac.uk)
+[E-mail address](mailto:david.murakami@economics.ox.ac.uk)
 
 My CV as a [one page PDF](https://drive.google.com/open?id=1NcfCOuNB1ws3utBeYd1FjKn0C5ODY6P8) or [HTML extended version](https://hirothreading.github.io/thehonourroll/htmlcv.html)
 

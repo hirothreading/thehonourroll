@@ -3,7 +3,7 @@ layout: other
 ---
 ## Resources
 
-On this page you will find resources I have used and continue to use in my various capacities as a student and teaching & research assistant. Please feel free to use and share these notes as you see fit. If you spot any typos or mistakes, please [email](david.murakami@economics.ox.ac.uk) me.
+On this page you will find resources I have used and continue to use in my various capacities as a student and teaching & research assistant. Please feel free to use and share these notes as you see fit. If you spot any typos or mistakes, please [email](mailto:david.murakami@economics.ox.ac.uk) me.
 
 ### University of Oxford
 #### Econometrics (MPhil Economics)
