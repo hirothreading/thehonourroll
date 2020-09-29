@@ -5,6 +5,12 @@ layout: other
 
 On this page you will find resources I have used and continue to use in my various capacities as a student and teaching & research assistant. Please feel free to use and share these notes as you see fit. If you spot any typos or mistakes, please [email](mailto:david.murakami@economics.ox.ac.uk) me.
 
+## Dynare .mod files
+A collection of Dynare .mod files for various macro DSGE models I've looked at throughout my studies. Feedback and advice is always welcome.
+[Aoki, Benigno, and Kiyotaki (2016)](https://github.com/hirothreading/Dynare_.mod_files/blob/master/ABK2016.mod)
+
+[Hansen's Simple RBC Model](https://github.com/hirothreading/Dynare_.mod_files/blob/master/hansen_simple_rbc.mod)
+
 ### University of Oxford
 #### Econometrics (MPhil Economics)
 [Problem Set 1: Probability and Distributions](https://drive.google.com/open?id=1s1YncHHNpWJTymKr3Z0WQvow_lX6lTBl)  
