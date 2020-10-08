@@ -8,9 +8,9 @@ On this page you will find resources I have used and continue to use in my vario
 ## Dynare .mod files
 A collection of Dynare .mod files for various macro DSGE models I've looked at throughout my studies. Feedback and advice is always welcome.
 
-[Aoki, Benigno, and Kiyotaki (2016)](https://github.com/hirothreading/Dynare_.mod_files/blob/master/ABK2016.mod)
+[Aoki, Benigno, and Kiyotaki (2016)](https://github.com/hirothreading/Dynare_.mod_files/tree/master/Aoki%2C%20Benigno%2C%20and%20Kiyotaki%20(2016))
 
-[Hansen's Simple RBC Model](https://github.com/hirothreading/Dynare_.mod_files/blob/master/hansen_simple_rbc.mod)
+[Hansen's Simple RBC Model](https://github.com/hirothreading/Dynare_.mod_files/tree/master/Hansen%20Simple%20RBC)
 
 ## Course Material
 ### University of Oxford
