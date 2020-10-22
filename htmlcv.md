@@ -3,8 +3,7 @@ layout: other
 ---
 ## Curriculum Vitae
 
-### Current Appointments
-Research Assistant, University of Oxford (2020.7 - Present)  
+### Current Appointments  
 
 
 ### Current Papers and Projects
@@ -37,6 +36,8 @@ Major(s): Economics, Quantitative Economics, Investment Finance, Japanese Studie
 
 
 ### Past Appointments
+Research Assistant, University of Oxford (2020.7 - 2020.9)
+
 Technical Specialist; Technical Expert, Apple (2017.5 - 2019.8)
 
 Teaching Assistant, Faculty of Economics, Keio University (2017.9 - 2019.4)  
