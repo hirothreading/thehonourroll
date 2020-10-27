@@ -4,7 +4,7 @@ layout: other
 ## Research
 
 ### Working Papers
-["Commodity Currencies and Disaster Risk (working title)"](https://drive.google.com/open?id=1X_UVCYTe10ZBDMINkCgloLgtJhEETmWq) with Robert Nguyen and Ganesh Viswanath Natraj.
+["Commodity Currency Crashes and Risk Premia"](https://drive.google.com/open?id=1X_UVCYTe10ZBDMINkCgloLgtJhEETmWq) with Robert Nguyen and Ganesh Viswanath Natraj.
 
 ["Productivity Implications over the Life-Cycle"](https://drive.google.com/open?id=1E1Yh-11jFemYWoKd5USTMCP4OXglM7ql) with Momo Komatsu.
 
