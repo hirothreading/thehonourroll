@@ -9,7 +9,7 @@ layout: other
 ### Current Papers and Projects
 “Leaning Against the Global Financial Cycle” with Ferrero and Lee
 
-["Productivity Implications over the Life-Cycle"](https://drive.google.com/open?id=1E1Yh-11jFemYWoKd5USTMCP4OXglM7ql)
+["Productivity Implications over the Life-Cycle"](https://drive.google.com/open?id=1E1Yh-11jFemYWoKd5USTMCP4OXglM7ql) with Momo Komatsu
 
 ["Commodity Currencies and Disaster Risk (working title)"](https://drive.google.com/open?id=1X_UVCYTe10ZBDMINkCgloLgtJhEETmWq) with Nguyen and Viswanath
 
@@ -75,6 +75,8 @@ C.A. Vargovic Memorial Scholarship, The University of Western Australia (2013.7)
 
 
 ### Past Volunteer and Extra Curricular Activities
+Junior Advisor, St Cross College, University of Oxford (2020.10 - Present)
+
 Committee Member, [Australia-Japan Youth Dialogue](www.ajyd.org) (2016.12 - 2020.4)  
 
 Professor Ippei Fujiwara Research Seminar, Keio University (2016.4 - 2019.3)
