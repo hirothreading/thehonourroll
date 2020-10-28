@@ -16,6 +16,10 @@ A collection of Dynare .mod files for various macro DSGE models I've looked at t
 
 ## Course Material
 ### University of Oxford
+#### Advanced Macroeconomics (MPhil Economics)
+[Recursive, Projection, and Perturbation Methods for Solving DSGE Models](https://drive.google.com/file/d/1ak0fc_LaKgt1akRmyz6n6RJIvB0MrjWV/view?usp=sharing)
+
+
 #### Econometrics (MPhil Economics)
 [Problem Set 1: Probability and Distributions](https://drive.google.com/open?id=1s1YncHHNpWJTymKr3Z0WQvow_lX6lTBl)  
 
