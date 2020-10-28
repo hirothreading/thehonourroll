@@ -12,6 +12,8 @@ A collection of Dynare .mod files for various macro DSGE models I've looked at t
 
 [Hansen's Simple RBC Model](https://github.com/hirothreading/Dynare_.mod_files/tree/master/Hansen%20Simple%20RBC)
 
+[Simple Search and Match Model](https://github.com/hirothreading/Dynare_.mod_files/tree/master/Simple%20SAM%20model)
+
 ## Course Material
 ### University of Oxford
 #### Econometrics (MPhil Economics)
