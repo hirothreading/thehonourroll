@@ -11,5 +11,6 @@ layout: other
 
 ### Work in Progress
 “Leaning Against the Global Financial Cycle” with Andrea Ferrero and Seungyoon Lee.
+[["slides"](https://drive.google.com/file/d/1MYJhfct7irZS-_xWRViXwPLv-e9YdrvK/view?usp=sharing)]
 
 "Some More Empirical Evidence on the Effects of Shocks to Monetary Policy on Exchange Rates" with Reina Kawai and Momo Komatsu.
