@@ -10,7 +10,7 @@ layout: other
 
 
 ### Work in Progress
-“Gone with the Wind: Monetary and Financial Policies During Global Financial Cycles” with Andrea Ferrero and Seungyoon Lee.
+“Gone with the Wind: Monetary and Financial Policies During Global Financial Cycles”.
 [[slides](https://drive.google.com/file/d/1MYJhfct7irZS-_xWRViXwPLv-e9YdrvK/view?usp=sharing)]
 
 "Some More Empirical Evidence on the Effects of Shocks to Monetary Policy on Exchange Rates" with Reina Kawai and Momo Komatsu.
