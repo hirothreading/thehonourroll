@@ -4,7 +4,7 @@ layout: post
 
 ## [The Trump Card](https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-2020-us-election-third-term-tim-wirth-white-house-a9600486.html)
 
-Tim Wirth, a former Senator from Colorado originally published an op-ed in [Newsweek](https://www.newsweek.com/how-trump-could-lose-election-still-remain-president-opinion-1513975) in July earlier this year, outlining a *House of Cards*-like scenario where Donald Trump remains in power despite losing the Electoral College vote. It's worth a read and is serious consideration, and the main thesis is as follows.
+Tim Wirth, a former Senator from Colorado originally published an op-ed in [Newsweek](https://www.newsweek.com/how-trump-could-lose-election-still-remain-president-opinion-1513975) in July earlier this year, outlining a *House of Cards*-like scenario where Donald Trump remains in power despite losing the Electoral College vote. It's worth a read and serious consideration, and the main thesis is as follows.
 
 >According to Mr Wirth, should Mr Trump lose in a scenario where challenger Joe Biden beats him by "decent but not overwhelming" margins in the swing states of Arizona, Wisconsin, Michigan and Pennsylvania, Mr Trump will declare that the vote was rigged.
 
