@@ -4,7 +4,7 @@ layout: post
 
 ## [Trump's Card](https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-2020-us-election-third-term-tim-wirth-white-house-a9600486.html)
 
-Tim Wirth, a former Senator from Colorado originally published an op-ed in [Newsweek](https://www.newsweek.com/how-trump-could-lose-election-still-remain-president-opinion-1513975) in July earlier this year, outlining a *House of Cards*-like scenario where Donald Trump remains in power despite losing the popular vote. It's worth a read and is serious consideration, and the main thesis is as follows.
+Tim Wirth, a former Senator from Colorado originally published an op-ed in [Newsweek](https://www.newsweek.com/how-trump-could-lose-election-still-remain-president-opinion-1513975) in July earlier this year, outlining a *House of Cards*-like scenario where Donald Trump remains in power despite losing the Electoral College vote. It's worth a read and is serious consideration, and the main thesis is as follows.
 
 >According to Mr Wirth, should Mr Trump lose in a scenario where challenger Joe Biden beats him by "decent but not overwhelming" margins in the swing states of Arizona, Wisconsin, Michigan and Pennsylvania, Mr Trump will declare that the vote was rigged.
 
@@ -24,4 +24,4 @@ Things are already falling into place for Trump and the GOP to execute this plan
 
 This was why winning the 2016 election was so absolutely crucial for Democrats. They will rue the day that they decided to put the fate of their party -- and its supporters -- into the failed, decrepit hands of neoliberalism and neoconservatism. The 2016 defeat led to three conservative Supreme Court Justices being nominated to the US Supreme Court, who will most likely rule favourably to whatever scheme the GOP puts forward.
 
-Bernie Sanders with a real progressive, popularist platform would have defeated Trump in 2016, and he would've demolished Trump in this election. The fact that this election was so close should be a sign of significant failure for the Democrats. This was the easiest election to win (for either side) in modern political history. It was an open layup, and the Democrats blew it. Not just once, but twice. 
+Bernie Sanders with a real progressive, popularist platform would have defeated Trump in 2016, and he would've demolished Trump in this election. The fact that this election was so close should be a sign of significant failure for the Democrats. This was the easiest election to win (for either side) in modern political history. It was an open layup, and the Democrats blew it. Not just once, but twice.
