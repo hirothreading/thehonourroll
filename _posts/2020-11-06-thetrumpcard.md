@@ -2,7 +2,7 @@
 layout: post
 ---
 
-## [Trump's Card](https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-2020-us-election-third-term-tim-wirth-white-house-a9600486.html)
+## [The Trump Card](https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-2020-us-election-third-term-tim-wirth-white-house-a9600486.html)
 
 Tim Wirth, a former Senator from Colorado originally published an op-ed in [Newsweek](https://www.newsweek.com/how-trump-could-lose-election-still-remain-president-opinion-1513975) in July earlier this year, outlining a *House of Cards*-like scenario where Donald Trump remains in power despite losing the Electoral College vote. It's worth a read and is serious consideration, and the main thesis is as follows.
 
