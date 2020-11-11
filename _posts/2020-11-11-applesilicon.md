@@ -1,5 +1,5 @@
-—-
-Layout: post
+—--
+layout: post
 ---
 
 ## [Apple Silicon Performance is Astonishing](https://www.anandtech.com/show/16226/apple-silicon-m1-a14-deep-dive)
