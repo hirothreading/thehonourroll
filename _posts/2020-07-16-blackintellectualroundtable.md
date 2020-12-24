@@ -4,7 +4,7 @@ layout: post
 
 ## [Bret Weinstein's DarkHorse Podcast: Black Intellectual Roundtable](https://www.youtube.com/watch?v=pHGt733yw3g&t=828s)
 
-I could listen to [Bret Weinstein](https://en.wikipedia.org/wiki/Bret_Weinstein) (and [Eric Weinstein](https://en.wikipedia.org/wiki/Eric_Weinstein) -- I only recently found out that the two are brothers) anytime. This was no different. What an amazingly refreshing, thought provoking discussion. If you have a spare two-hours, and are in dire need of something intelligent and cogent to listen to, I have no reservations in recommending this podcast episode.
+This was an amazingly refreshing, thought provoking discussion. If you have a spare two-hours, and are in dire need of something intelligent and cogent to listen to, I have no reservations in recommending this podcast episode.
 
 The panelists were absolutely brilliant. From the podcast episode:
 Glenn C. Loury is Merton P. Stoltz Professor of Economics at Brown University. He holds the B.A. in Mathematics (Northwestern) and the Ph.D. in Economics (M.I.T). As an economic theorist he has published widely and lectured throughout the world on his research. He is also among America’s leading critics writing on racial inequality. He has been elected as a Distinguished Fellow of the American Economics Association, as a member of the American Philosophical Society and of the U.S. Council on Foreign relations, and as a Fellow of the Econometric Society and of the American Academy of Arts and Sciences.
@@ -27,5 +27,3 @@ John McWhorter is a contributing writer at The Atlantic. He is a professor of li
 
 Coleman Hughes is a fellow at the Manhattan Institute and a contributing editor at City Journal, where his writing focuses on race, public policy, and applied ethics. Coleman’s writing has been featured in the New York Times, the Wall Street Journal, National Review, Quillette, The City Journal and The Spectator. He has appeared on many podcasts, including The Rubin Report, Making Sense with Sam Harris, and The Glenn Show.
 @coldxman on Twitter.
-
-In addition, if you want to binge even more good discussion, then check out the following JRE episodes with [Bret Weinstein](https://www.youtube.com/watch?v=pRCzZp1J0v0&t=33s) -- and, [Eric Weinstein](https://www.youtube.com/watch?v=_EWCN3CPhTI).
