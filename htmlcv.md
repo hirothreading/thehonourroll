@@ -7,16 +7,16 @@ layout: other
 
 
 ### Current Papers and Projects
-“Leaning Against the Global Financial Cycle” with Ferrero and Lee
+“Gone with the Wind: Monetary and Financial Policies During Global Financial Cycles”
 
 ["Productivity Implications over the Life-Cycle"](https://drive.google.com/open?id=1E1Yh-11jFemYWoKd5USTMCP4OXglM7ql) with Momo Komatsu
 
-["Commodity Currencies and Disaster Risk (working title)"](https://drive.google.com/open?id=1X_UVCYTe10ZBDMINkCgloLgtJhEETmWq) with Nguyen and Viswanath
+["Commodity Currencies and Disaster Risk (working title)"](https://drive.google.com/open?id=1X_UVCYTe10ZBDMINkCgloLgtJhEETmWq) with Robert Nguyen and Ganesh Viswanath Natraj
 
 
 ### Education
-Master of Philosophy in Economics, University of Oxford (2019.9 - Present)
-Academic Supervisor: Andrea Ferrero and Sophocles Mavroeidis
+Master of Philosophy in Economics, University of Oxford (2019.9 - Present)  
+Academic Supervisor: Andrea Ferrero
 
 Master of Arts (Economics), Keio University (2017.4 - 2019.3)  
 Academic Supervisor: Professor Ippei Fujiwara  
