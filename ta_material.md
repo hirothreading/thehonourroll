@@ -55,6 +55,8 @@ A collection of Dynare .mod files for various macro DSGE models I've looked at t
 
 [Problem Set 2: Neoclassical Growth Models Part II: The OLG and Ramsey Model](https://drive.google.com/open?id=1S1Q3TMzS03GXhVgurmTbeb5fRs4wSDtX)  
 
+[Problem Set 3: RBC Model Smörgåsbord and Labour Markets](https://drive.google.com/file/d/1tEni8VU_ucw9tm3iSW0vuCDbhL6jVGLY/view?usp=sharing)  
+
 [Macroeconomics Vacation Problem Set](https://drive.google.com/open?id=11vJewFHWfULC0VIvXDiJoW15zy_P-9yA)
 
 
