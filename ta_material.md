@@ -8,9 +8,13 @@ On this page you will find resources I have used and continue to use in my vario
 ## Dynare .mod files
 A collection of Dynare .mod files for various macro DSGE models I've looked at throughout my studies. Feedback and advice is always welcome.
 
-[Aoki, Benigno, and Kiyotaki (2016)](https://github.com/hirothreading/Dynare_.mod_files/tree/master/Aoki%2C%20Benigno%2C%20and%20Kiyotaki%20(2016))
+[Aoki, Benigno, and Kiyotaki (2016)](https://github.com/hirothreading/Dynare_.mod_files/tree/master/Aoki%2C%20Benigno%2C%20and%20Kiyotaki%20(2016))  
 
-[Hansen's Simple RBC Model](https://github.com/hirothreading/Dynare_.mod_files/tree/master/Hansen%20Simple%20RBC)
+[Gali and Monacelli (2005)](https://github.com/hirothreading/Dynare_.mod_files/tree/master/Gali%20and%20Monacelli%20(2005))  
+
+[Hansen's Simple RBC Model](https://github.com/hirothreading/Dynare_.mod_files/tree/master/Hansen%20Simple%20RBC)  
+
+[Mendoza (1991) and Schmitt-Grohe and Uribe (2017,ch.4)](https://github.com/hirothreading/Dynare_.mod_files/tree/master/SGU%20(2017%2C%20ch.4)%20and%20Mendoza%20(1991))  
 
 [Simple Search and Match Model](https://github.com/hirothreading/Dynare_.mod_files/tree/master/Simple%20SAM%20model)
 
