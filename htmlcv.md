@@ -4,14 +4,15 @@ layout: other
 ## Curriculum Vitae
 
 ### Current Appointments  
+Lead Graduate Assistant, UNIQ, University of Oxford (2021.6 - Present)  
 
 
 ### Current Papers and Projects
-“Gone with the Wind: Monetary and Financial Policies During Global Financial Cycles”
+“Gone with the Wind: Monetary and Financial Policies During Global Financial Cycles”["slides"](["Productivity Implications over the Life-Cycle"](https://drive.google.com/open?id=1E1Yh-11jFemYWoKd5USTMCP4OXglM7ql)     
 
-["Productivity Implications over the Life-Cycle"](https://drive.google.com/open?id=1E1Yh-11jFemYWoKd5USTMCP4OXglM7ql) with Momo Komatsu
+["Commodity Currencies and Disaster Risk"](https://drive.google.com/open?id=1X_UVCYTe10ZBDMINkCgloLgtJhEETmWq) with Robert Nguyen and Ganesh Viswanath Natraj  
 
-["Commodity Currencies and Disaster Risk (working title)"](https://drive.google.com/open?id=1X_UVCYTe10ZBDMINkCgloLgtJhEETmWq) with Robert Nguyen and Ganesh Viswanath Natraj
+["Productivity Implications over the Life-Cycle"](https://drive.google.com/open?id=1E1Yh-11jFemYWoKd5USTMCP4OXglM7ql)  
 
 
 ### Education
@@ -36,7 +37,9 @@ Major(s): Economics, Quantitative Economics, Investment Finance, Japanese Studie
 
 
 ### Past Appointments
-Research Assistant, University of Oxford (2020.7 - 2020.9)
+Exam Marker, Department of Economics, University of Oxford (2021.04 - 2021.05)  
+
+Research Assistant, Department of Economics, University of Oxford (2020.7 - 2020.9)
 
 Technical Specialist; Technical Expert, Apple (2017.5 - 2019.8)
 

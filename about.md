@@ -10,7 +10,7 @@ My contact details as well as full appointment history can be found from the fol
 
 [E-mail address](mailto:david.murakami@economics.ox.ac.uk)
 
-My CV as a [one page PDF](https://drive.google.com/open?id=1NcfCOuNB1ws3utBeYd1FjKn0C5ODY6P8) or [HTML extended version](https://hirothreading.github.io/thehonourroll/htmlcv.html)
+My CV as a [short PDF](https://drive.google.com/open?id=1NcfCOuNB1ws3utBeYd1FjKn0C5ODY6P8) or [HTML extended version](https://hirothreading.github.io/thehonourroll/htmlcv.html)
 
 My [LinkedIn page](https://www.linkedin.com/in/d-h-murakami/)
 
