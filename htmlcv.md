@@ -8,7 +8,7 @@ Lead Graduate Assistant, UNIQ, University of Oxford (2021.6 - Present)
 
 
 ### Current Papers and Projects
-“Gone with the Wind: Monetary and Financial Policies During Global Financial Cycles”["slides"](https://drive.google.com/file/d/19ekyXnoLi-GVrqZ0cvpy9Ip__tVBEKRd/view?usp=sharing)  
+“Gone with the Wind: Monetary and Financial Policies During Global Financial Cycles”[["slides"](https://drive.google.com/file/d/19ekyXnoLi-GVrqZ0cvpy9Ip__tVBEKRd/view?usp=sharing)]    
 
 “Some More Empirical Evidence on the Effects of Shocks to Monetary Policy on Exchange Rates” with Reina Kawai and Momo Komatsu  
 
